@@ -10,4 +10,4 @@
 I'm August from El Salvador, and I work as a developer and beat maker. I greatly enjoy learning and developing in Python. I'm passionate about minimalistic and functional design, always aiming to create a pleasant user experience (UX) and overall design.
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7vhz4z4tyyuzodzyfo3weo7ru&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7vhz4z4tyyuzodzyfo3weo7ru&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
