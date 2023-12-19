@@ -13,3 +13,4 @@ I'm August from El Salvador, and I work as a developer and beat maker. I greatly
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustMorales26&theme=nord_bright)
 
 </div>
+<h3 align="center">Languages and Tools:</h3>
