@@ -2,4 +2,4 @@
 <hr>
 
 # August Morales
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Augusto from El Salvador, and I work as a developer and beat maker. I greatly enjoy learning and developing in Python. I'm passionate about minimalistic and functional design, always aiming to create a pleasant user experience (UX) and overall design.
