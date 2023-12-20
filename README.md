@@ -18,4 +18,8 @@ I'm August from El Salvador, and I work as a developer and beat maker. I greatly
 
 <h3 align="center">Hobbies:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7vhz4z4tyyuzodzyfo3weo7ru&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<div alig="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7vhz4z4tyyuzodzyfo3weo7ru&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
