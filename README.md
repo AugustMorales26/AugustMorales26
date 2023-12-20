@@ -17,7 +17,7 @@ I'm August from El Salvador, and I work as a developer and beat maker. I greatly
 <br>
 
 <h3>Hobbies:</h3>
-I'm August from El Salvador, and I work as a developer and beat maker. I greatly enjoy learning and developing in Python. I'm passionate about minimalistic and functional design, always aiming to create a pleasant user experience (UX) and overall design.
+Outside of my work as a developer and beat maker, I indulge in various hobbies. I find solace in listening to music, particularly immersing myself in diverse beats and rhythms. As a Formula 1 enthusiast, the thrill of high-speed racing captivates me, and I always make time to catch the latest races. Additionally, staying connected with the world through my social media channels is another aspect of my daily routine. These hobbies add a vibrant and enjoyable balance to my life.
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7vhz4z4tyyuzodzyfo3weo7ru&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
