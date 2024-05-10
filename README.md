@@ -4,26 +4,11 @@
 **About me:**
 I'm Augusto, a passionate software developer and music producer with a strong focus on creating innovative solutions and beats that make you move. 🕺
 
-**Tech Stack:**
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 **Languages:**
 <div id="badges">
   <a href="your-python-URL">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  </a>
-  <a href="your-javascript-URL">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   </a>
   <a href="your-csharp-URL">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
@@ -34,6 +19,9 @@ I'm Augusto, a passionate software developer and music producer with a strong fo
 <div id="badges">
   <a href="your-html-URL">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  </a>
+  <a href="your-javascript-URL">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   </a>
   <a href="your-css-URL">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
@@ -55,4 +43,6 @@ I'm Augusto, a passionate software developer and music producer with a strong fo
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
   </a>
   <a href="your-macos-URL">
-    <img src="https://img.shields.io/badge/MacOS-00
+    <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS Badge"/>
+  </a>
+</div>
