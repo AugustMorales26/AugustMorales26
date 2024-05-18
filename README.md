@@ -1,8 +1,7 @@
 # AugustDev
-💡 Software developer & BeatMaker
+💡 Desarrollador de software y BeatMaker
 
-**About me:**
-I'm Augusto, a passionate software developer and music producer with a strong focus on creating innovative solutions and beats that make you move. 🕺
+Acerca de mí: Soy Augusto, un apasionado desarrollador de software y productor musical con un fuerte enfoque en crear soluciones innovadoras.
 
 
 
