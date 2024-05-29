@@ -1,7 +1,15 @@
 # AugustoDEV
 ### 💡 Software developer | digital creator
 
-Hola, soy Augusto! Tengo 24 años y soy un apasionado desarrollador de software y creador digital. Me encanta construir soluciones innovadoras y atractivas que mejoren la vida de las personas.
+Hi there, I'm Augusto, a 24-year-old software developer and digital creator. I'm passionate about technology, innovation, and creating elegant and minimalist digital solutions.
 
-### 📫 Contacto
-Si quieres saber más sobre mí o simplemente quieres mantenerte en contacto, aquí están mis redes sociales y enlaces:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f2i4sppvcuevfiodjf7b5efuoy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+💬 Let's connect!
+
+LinkedIn
+Twitter
+GitHub
+Personal website
