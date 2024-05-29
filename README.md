@@ -1,7 +1,2 @@
 # AugustDev
-### 💡 Desarrollador de software y BeatMaker
-
-Acerca de mí: Soy Augusto, un apasionado desarrollador de software y productor musical con un fuerte enfoque en crear soluciones innovadoras.
-
-
-
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />   Software developer | Designer
