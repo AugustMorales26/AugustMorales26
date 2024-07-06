@@ -22,7 +22,7 @@ Amante de la fotografía, la composición musical y la investigación de las úl
 
 **🚀 Workflow**
 
-Amante de la fotografía, la composición musical y la investigación de las últimas innovaciones en el ámbito de Apple y Fedora, además tengo fascinación por la ciencia.
+Mis estadísticas de desarrollo: **HTML, CSS, JavaScript, Python, Flask, Django, React, Node.js, y redes básicas**.
 
 ![github-snake](dist/github-user-contribution.svg)
 
