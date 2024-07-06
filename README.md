@@ -11,4 +11,6 @@ Soy desarrollador de software y estudiante de redes informáticas apasionado de 
 
 <br>
 
+**Hoobies**
 
+<img src="photos.png" alt="photos" width="36" height="auto"> &nbsp; &nbsp; <img src="music.png" alt="music" width="36" height="auto"> &nbsp; &nbsp; <img src="keyboard-shortcut.png" alt="keyboard" width="36" height="auto">
