@@ -19,9 +19,7 @@ Amante de la fotografía, la composición musical y la investigación de las úl
 
 <hr>
 
-<div align="center">
-   <h1>🚀 Workflows</h1>
-</div>
+**🚀 Workflow**
 
 ![github-snake](dist/github-user-contribution.svg)
 
