@@ -19,6 +19,8 @@ Amante de la fotografía, la composición musical y la investigación de las úl
 
 <hr>
 
+![github-snake](dist/github-snake.svg)
+
 <hr>
 
 <div align="center">
