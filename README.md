@@ -24,9 +24,13 @@ Amante de la fotografía, la composición musical y la investigación de las úl
 
 Mis estadísticas de desarrollo: **HTML, CSS, JavaScript, Python, Flask, Django, React, Node.js, y redes básicas**.
 
+<!--Area de repositorios creados-->
+
 ![github-snake](dist/github-user-contribution.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustMorales26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--Area de estadisticas-->
+* **Sistemas operativos**: MacOS, Fedora (Linux)
+* **Herramientas**: Visual Studio Code, Git, GitHub, NeoVim
 
 <hr>
 
