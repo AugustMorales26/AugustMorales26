@@ -30,7 +30,7 @@ Un breve resumen de mis estadísticas de desarrollo:
 
 <!--Area de estadisticas-->
 * **Sistemas operativos**: MacOS, Fedora (Linux)
-* **Herramientas**: Visual Studio Code, Git, GitHub, NeoVim
+* **Herramientas**: Visual Studio Code, Git, GitHub, NeoVim y Notion
 
 <img src="lenguajes/gnu-bash.png" alt="Code" width="36" height="auto"> &nbsp; <img src="lenguajes/python.png" alt="Code" width="36" height="auto"> &nbsp; <img src="lenguajes/nodejs.png" alt="Code" width="36" height="auto"> &nbsp; <img src="lenguajes/server.png" alt="Code" width="36" height="auto"> &nbsp; <img src="lenguajes/react.png" alt="Code" width="36" height="auto"> &nbsp; 
 
