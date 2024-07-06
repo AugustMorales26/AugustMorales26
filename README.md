@@ -1,5 +1,5 @@
 # AugustoDev
-### 💡 Desarrollador de software | Estudiante de redes informáticas 
+### 💡 Desarrollador de software | Estudiante de redes
 
 <hr>
 
