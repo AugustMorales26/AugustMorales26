@@ -22,7 +22,7 @@ Amante de la fotografía, la composición musical y la investigación de las úl
 
 **🚀 Workflow**
 
-Mis estadísticas de desarrollo: **HTML, CSS, JavaScript, Python, Flask, Django, React, Node.js, y redes básicas**.
+Un breve resumen de mis estadísticas de desarrollo:
 
 <!--Area de repositorios creados-->
 
