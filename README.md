@@ -19,3 +19,10 @@ Amante de la fotografía, la composición musical y la investigación de las úl
 
 <hr>
 
+<hr>
+
+<div align="center">
+  <img src="mail.png" alt="Mail" width="36" height="auto">
+  <br>
+  <a href="mailto:augustodesigner26@gmail.com" style="text-decoration: none;" >augustodesigner26@gmail.com</a>
+</div>
