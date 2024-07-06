@@ -11,8 +11,8 @@ Soy desarrollador de software apasionado de la tecnología y la innovación. Me 
 
 <br>
 
-**⏳ Hobbies**
 
+**⏳ Hobbies**
 Amante de la fotografía, la composición musical y la investigación de las últimas innovaciones en el ámbito de Apple y Fedora, además tengo fascinación por la ciencia.
 
 <img src="photos.png" alt="photos" width="36" height="auto"> &nbsp; &nbsp; <img src="music.png" alt="music" width="36" height="auto"> &nbsp; &nbsp; <img src="keyboard-shortcut.png" alt="keyboard" width="36" height="auto">
@@ -20,7 +20,7 @@ Amante de la fotografía, la composición musical y la investigación de las úl
 <hr>
 
 <div align="center">
-  <h1> workflows </h1>
+   <h1>🚀 Workflows</h1>
 </div>
 
 ![github-snake](dist/github-user-contribution.svg)
