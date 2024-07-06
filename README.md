@@ -11,7 +11,7 @@ Soy desarrollador de software y estudiante de redes informáticas apasionado de 
 
 <br>
 
-**Hoobies**
+**⏳ Hoobies**
 
 En mi tiempo libre, tengo interés por la fotografía, la composición musical y la investigación de las últimas innovaciones en el ámbito de Apple y Fedora.
 
