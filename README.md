@@ -26,6 +26,8 @@ Mis estadísticas de desarrollo: **HTML, CSS, JavaScript, Python, Flask, Django,
 
 ![github-snake](dist/github-user-contribution.svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustMorales26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
 <div align="center">
