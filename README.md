@@ -11,7 +11,7 @@ Soy desarrollador de software apasionado de la tecnología y la innovación. Me 
 
 <br>
 
-**⏳ hobbies**
+**⏳ Hobbies**
 
 Amante de la fotografía, la composición musical y la investigación de las últimas innovaciones en el ámbito de Apple y Fedora, además tengo fascinación por la ciencia.
 
